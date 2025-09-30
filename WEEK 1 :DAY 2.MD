@@ -1,15 +1,18 @@
 ## Question  
 
-- **Name         :**SINGLE NUMBER
+- **Name         :**
+SINGLE NUMBER
 
-- **Topic Covered:**ARRAY ,BIT MANUPULATION 
+- **Topic Covered:**
+ARRAY ,BIT MANUPULATION 
  
 
 ---
 
 ## Question Description 
 
-- **Description   :**Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
+- **Description   :**
+Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
 
 You must implement a solution with a linear runtime complexity and use only constant extra space.
 
@@ -58,7 +61,8 @@ public:
     }
 };
 
-- **Link           :**https://leetcode.com/problems/single-number/submissions/1654552637
+- **Link           :**
+https://leetcode.com/problems/single-number/submissions/1654552637
 
 
 ---
