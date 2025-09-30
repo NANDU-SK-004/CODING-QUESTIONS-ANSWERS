@@ -15,10 +15,10 @@ This repository is dedicated to fostering collaborative learning, knowledge shar
 
 
 ---
--**Name:** NANDU S KUMAR 
--**Semester:** S5  
--**Valuator:** HHHHHH 
--**Coding Platform:** LeetCode 
+- **Name:** NANDU S KUMAR 
+- **Semester:** S5  
+- **Valuator:** HHHHHH 
+- **Coding Platform:** LeetCode 
 
 
 
